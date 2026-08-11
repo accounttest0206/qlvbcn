@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Quản Lý Văn Bản Cá Nhân",
+  "description": "Hệ thống quản lý văn bản cá nhân chuẩn PHP 8.4 OOP PDO, Bootstrap 5.3, Chart.js, Mammoth.js, tóm tắt tự động Extractive TF-IDF và SQL Dump.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
